@@ -1,4 +1,4 @@
-# WooCommerce Custom Products Swatches Plugin
+# Custom Products for WooCommerce
 
 This plugin enhances the functionality of WooCommerce by adding custom color, size, and price swatches to your product pages.
 
@@ -16,9 +16,9 @@ Follow these steps to install the plugin:
 
 After installing and activating the plugin:
 
-1. Go to **WooCommerce > Settings** in your WordPress admin dashboard.
-2. Look for the plugin settings option titled **Custom Swatches**.
-3. You will find a checkbox option labeled **Enable Custom Swatches**.
+1. After activate the plugin go to **WooCommerce > Settings** in your WordPress admin dashboard.
+2. Look for the plugin settings option titled **CPD Setting**.
+3. You will find a checkbox option labeled **Enable CPD Feature**.
 4. Tick the checkbox to activate the custom color, size, and price swatches functionality.
 5. Save the changes.
 
