@@ -17,7 +17,7 @@ class CPD_Variations {
 		define( 'CPD_URL', untrailingslashit( plugins_url( '/', __FILE__ ) ) );
 		define( 'CPD_VERSION', '1.0.0' );
 
-		load_plugin_textdomain( 'cpd-domain', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
+		load_plugin_textdomain( 'cpd-products', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
 
 
 		include_once( CPD_PATH . '/inc/core-functions.php' );
